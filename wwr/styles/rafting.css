@@ -1,12 +1,6 @@
 :root {
     --primary-color: #055a05;
-    /* forest green */
-    --secondary-color: #f4a261;
-    /* warm sand */
     --accent1-color: #264653;
-    /* dark slate blue */
-    --accent2-color: #e9c46a;
-    /* light golden yellow */
     --heading-font: "Chewy", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -79,7 +73,7 @@ h1 {
     color: #fff;
 }
 
-article {
+.hero article {
     position: absolute;
     bottom: 40px;
     left: 40px;
